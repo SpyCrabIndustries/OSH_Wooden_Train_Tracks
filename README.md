@@ -19,5 +19,5 @@ These desgined are heavily based on the work of Dave Barber's "Observations on T
 
 ## To DO:
 
--Track SVGs for inkscape 
--update FreeCAD files
+- Track SVGs for inkscape 
+- Update FreeCAD files
