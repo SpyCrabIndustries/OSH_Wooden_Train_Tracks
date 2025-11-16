@@ -17,7 +17,7 @@ These desgined are heavily based on the work of Dave Barber's "Observations on T
 - Provide a easily accessible collection of 3d printed to train tracks.  
 - Provide resorces for the development of these tracks and accompanying documentation.
 
-## To DO:
+## To Do:
 
 - Track SVGs for inkscape 
 - Update FreeCAD files
