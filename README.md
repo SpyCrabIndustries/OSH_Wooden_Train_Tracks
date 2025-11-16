@@ -21,3 +21,4 @@ These desgined are heavily based on the work of Dave Barber's "Observations on T
 
 - Track SVGs for inkscape 
 - Update FreeCAD files
+- Exsplain 36 deg system
